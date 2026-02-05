@@ -287,8 +287,8 @@ MIT License — free for personal and commercial use.
 
 ## Links
 
-- [Video introduction]([https://vimeo.com/XXXXX](https://vimeo.com/1162061050?fl=ip&fe=ec) *(LCIA GAR Hackathon 2026 submission)*
-- [Live converter demo](https://aaml-decoder-production.up.railway.app/) *(optional — if deployed)*
+- [Video introduction]([https://vimeo.com/XXXXX](https://vimeo.com/1162061050?fl=ip&fe=ec))
+- [Live converter demo](https://aaml-decoder-production.up.railway.app/)
 
 ---
 

@@ -298,4 +298,3 @@ Questions or feedback? Email: ldeferrari@whitecase.com
 
 ---
 
-*Submitted for the LCIA GAR Hackathon 2026*

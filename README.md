@@ -74,7 +74,7 @@ The syntax table:
 | Italic | `_text_` | _text_ |
 | Block quote | `> text` | Indented quotation |
 
-This covers 90% of what you need for arbitration drafting. The remaining 10% — references — is where AAML innovates.
+This covers 90% of what is needed for arbitration drafting. The remaining 10% — references — is also part of the AAML standard.
 
 ---
 
@@ -246,7 +246,7 @@ You never manually number paragraphs or format footnotes. That happens automatic
 
 ## Live Demo Limitations
 
-The [live converter demo](https://XXXXX) includes a pre-loaded set of **sample exhibits** for testing the reference linking function. This is a demonstration environment — in a real-world implementation, users would connect their own document library.
+The [live converter demo](https://aaml-decoder-production.up.railway.app/) includes a pre-loaded set of **sample exhibits** for testing the reference linking function. This is a demonstration environment — in a real-world implementation, users would connect their own document library.
 
 **To test references, use the filenames from the sample exhibit library below.**
 
@@ -287,8 +287,8 @@ MIT License — free for personal and commercial use.
 
 ## Links
 
-- [Video introduction](https://vimeo.com/XXXXX) *(LCIA GAR Hackathon 2026 submission)*
-- [Live converter demo](https://XXXXX) *(optional — if deployed)*
+- [Video introduction]([https://vimeo.com/XXXXX](https://vimeo.com/1162061050?fl=ip&fe=ec) *(LCIA GAR Hackathon 2026 submission)*
+- [Live converter demo](https://aaml-decoder-production.up.railway.app/) *(optional — if deployed)*
 
 ---
 

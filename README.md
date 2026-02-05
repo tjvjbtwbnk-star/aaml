@@ -59,7 +59,7 @@ _Italic text_ — use for case names, foreign terms, or quotations
 ### Why Markdown?
 
 - **Human-readable** — You can read the source file and understand it immediately
-- **AI-native** — Every LLM understands Markdown; it's in their training data
+- **AI-native** — Every LLM understands Markdown
 - **Universal** — Works in any text editor, any operating system
 - **Lightweight** — No hidden formatting, no corrupted files, no compatibility issues
 - **Version-control friendly** — Track changes with Git like code
@@ -176,6 +176,8 @@ The reference system means:
 - **Multiple output formats** — same source produces PDF with footnotes, web with clickable citations and potentially other formats
 - **LLM compatibility** — AI can generate properly referenced text that plugs directly into your submission
 
+Beyond individual efficiency gains, a shared standard creates the foundation for interoperability — enabling tribunals to navigate structured records, institutions to process submissions programmatically, and the arbitration community to build a common infrastructure for AI-assisted practice.
+
 ---
 
 ## Files in This Repository
@@ -252,7 +254,7 @@ The [live converter demo](https://aaml-decoder-production.up.railway.app/) inclu
 
 ### Sample Exhibit Library
 
-The demo includes ~180 synthetic documents from a fictitious construction arbitration (SPCC Power Plant Project). Document types:
+This repository includes **10 sample exhibits** for local testing, all synthetically generated from a fictitious construction arbitration (SPCC Power Plant Project). The [live converter demo](https://aaml-decoder-production.up.railway.app/) includes these sample exhibits for testing purposes. Document types:
 
 | Category | Prefix | Example Filename |
 |----------|--------|------------------|
@@ -297,4 +299,3 @@ MIT License — free for personal and commercial use.
 Questions or feedback? Email: ldeferrari@whitecase.com
 
 ---
-

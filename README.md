@@ -246,12 +246,6 @@ You never manually number paragraphs or format footnotes. That happens automatic
 
 ---
 
-## Live Demo Limitations
-
-The [live converter demo](https://aaml-decoder-production.up.railway.app/) includes a pre-loaded set of **sample exhibits** for testing the reference linking function. This is a demonstration environment — in a real-world implementation, users would connect their own document library.
-
-**To test references, use the filenames from the sample exhibit library below.**
-
 ### Sample Exhibit Library
 
 This repository includes **10 sample exhibits** for local testing, all synthetically generated from a fictitious construction arbitration (SPCC Power Plant Project). The [live converter demo](https://aaml-decoder-production.up.railway.app/) includes these sample exhibits for testing purposes. Document types:
@@ -290,7 +284,6 @@ MIT License — free for personal and commercial use.
 ## Links
 
 - [Video introduction](https://vimeo.com/1162061050?fl=ip&fe=ec)
-- [Live converter demo](https://aaml-decoder-production.up.railway.app/)
 
 ---
 

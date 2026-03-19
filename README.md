@@ -248,7 +248,7 @@ You never manually number paragraphs or format footnotes. That happens automatic
 
 ### Sample Exhibit Library
 
-This repository includes **10 sample exhibits** for local testing, all synthetically generated from a fictitious construction arbitration (SPCC Power Plant Project). The [live converter demo](https://aaml-decoder-production.up.railway.app/) includes these sample exhibits for testing purposes. Document types:
+This repository includes **10 sample exhibits** for local testing, all synthetically generated from a fictitious construction arbitration (SPCC Power Plant Project). Document types:
 
 | Category | Prefix | Example Filename |
 |----------|--------|------------------|
